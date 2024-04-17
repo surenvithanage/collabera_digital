@@ -1,5 +1,6 @@
 package com.library.service.controller;
 
+import com.library.service.dto.BorrowDto;
 import com.library.service.entity.Borrower;
 import com.library.service.service.borrower.BorrowerService;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -19,4 +20,10 @@ public class BorrowerController {
     public Borrower register(@RequestBody Borrower borrower) {
         return borrowerService.register(borrower);
     }
+
+    @PostMapping
+    public Borrower borrow(@RequestBody BorrowDto dto) {
+        return borrowerService.borrow(dto);
+    }
+
 }

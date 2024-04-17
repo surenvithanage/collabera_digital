@@ -9,14 +9,6 @@ p
 @src/main/java/com/library/service/repository/BookRepository.java,c/4/c45e3a16c20b0d28ea13bbb1a2d41683ca6a270c
 t
 Dsrc/main/java/com/library/service/repository/BorrowerRepository.java,7/9/79bc511cc0442642d624b2405df77f10bb82030a
-j
-:src/main/java/com/library/service/service/BookService.java,1/b/1b830dca547b34a5c99048b264dd98314b2014d3
-n
->src/main/java/com/library/service/service/BorrowerService.java,a/c/ac4da140c90ff51e8b9874ecba2006e4ac77eb52
-n
->src/main/java/com/library/service/service/BookServiceImpl.java,7/2/7262171f68ea461058b4fbf80bdf1fd19bdac802
-r
-Bsrc/main/java/com/library/service/service/BorrowerServiceImpl.java,9/5/95762ae70dbcd380f56120b375c220dff575002d
 w
 Gsrc/main/java/com/library/service/service/borrower/BorrowerService.java,9/0/907f2c25079c9628179e098e9704b451d888b4dc
 x
@@ -81,3 +73,7 @@ G.idea/sonarlint/issuestore/7/9/79bc511cc0442642d624b2405df77f10bb82030a,1/4/14
 Q.idea/sonarlint/securityhotspotstore/c/4/c45e3a16c20b0d28ea13bbb1a2d41683ca6a270c,b/2/b294da1953c8d546a0548301a73d8d656b39f28d
 Å
 Q.idea/sonarlint/securityhotspotstore/8/a/8a7e16897bf7614c2135f35c8d86ac734a1b905c,e/b/ebc6b98a2816760ff02a01c3821a75a4c2bcf549
+`
+0src/main/java/com/library/service/BorrowDto.java,3/2/324789720a4a9387d6224348920e4b6f21e774ee
+d
+4src/main/java/com/library/service/dto/BorrowDto.java,8/4/84dc65a67e23f6625765796bb85e7954062eb7a8
